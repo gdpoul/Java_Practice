@@ -15,8 +15,7 @@ public class Power {
 		int base=sc.nextInt();
 		System.out.println("Enter power number");
 		int power=sc.nextInt();
-		
-		
+			
 		int result=1;
 		
 		for(int i=1;i<=power;i++)
